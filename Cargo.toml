@@ -1,0 +1,12 @@
+[package]
+name = "libreda-splay"
+version = "0.0.0"
+authors = ["Thomas Kramer <code@tkramer.ch>", "Bodo Junglas <junglas@objectcode.de>"]
+edition = "2018"
+license = "AGPLv3"
+description = "Splay map and splay set data structures."
+
+[dependencies]
+
+[dev-dependencies]
+rand = "0.7"
