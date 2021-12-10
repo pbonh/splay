@@ -1,6 +1,6 @@
 [package]
 name = "libreda-splay"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Thomas Kramer <code@tkramer.ch>", "Bodo Junglas <junglas@objectcode.de>"]
 edition = "2018"
 license = "AGPL-3.0-or-later"
